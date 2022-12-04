@@ -1,0 +1,17 @@
+E:\Workplace\BuberDinner\BuberDinner7\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Infrastructure.deps.json
+E:\Workplace\BuberDinner\BuberDinner7\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Infrastructure.dll
+E:\Workplace\BuberDinner\BuberDinner7\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Infrastructure.pdb
+E:\Workplace\BuberDinner\BuberDinner7\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Application.dll
+E:\Workplace\BuberDinner\BuberDinner7\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Domain.dll
+E:\Workplace\BuberDinner\BuberDinner7\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Application.pdb
+E:\Workplace\BuberDinner\BuberDinner7\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Domain.pdb
+E:\Workplace\BuberDinner\BuberDinner7\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.csproj.AssemblyReference.cache
+E:\Workplace\BuberDinner\BuberDinner7\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workplace\BuberDinner\BuberDinner7\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.AssemblyInfoInputs.cache
+E:\Workplace\BuberDinner\BuberDinner7\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.AssemblyInfo.cs
+E:\Workplace\BuberDinner\BuberDinner7\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Workplace\BuberDinner\BuberDinner7\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.csproj.CopyComplete
+E:\Workplace\BuberDinner\BuberDinner7\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.dll
+E:\Workplace\BuberDinner\BuberDinner7\BuberDinner.Infrastructure\obj\Debug\net7.0\refint\BuberDinner.Infrastructure.dll
+E:\Workplace\BuberDinner\BuberDinner7\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.pdb
+E:\Workplace\BuberDinner\BuberDinner7\BuberDinner.Infrastructure\obj\Debug\net7.0\ref\BuberDinner.Infrastructure.dll

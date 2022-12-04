@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "BuberDinner.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/BuberDinner.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BuberDinner.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BuberDinner.Domain/1.0.0": {
+      "type": "project",
+      "path": "../BuberDinner.Domain/BuberDinner.Domain.csproj",
+      "msbuildProject": "../BuberDinner.Domain/BuberDinner.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "BuberDinner.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\GENERAL\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Workplace\\BuberDinner\\BuberDinner7\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+      "projectUniqueName": "E:\\Workplace\\BuberDinner\\BuberDinner7\\BuberDinner.Application\\BuberDinner.Application.csproj",
       "projectName": "BuberDinner.Application",
-      "projectPath": "E:\\Workplace\\BuberDinner\\BuberDinner7\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+      "projectPath": "E:\\Workplace\\BuberDinner\\BuberDinner7\\BuberDinner.Application\\BuberDinner.Application.csproj",
       "packagesPath": "C:\\Users\\GENERAL\\.nuget\\packages\\",
-      "outputPath": "E:\\Workplace\\BuberDinner\\BuberDinner7\\BuberDinner\\BuberDinner.Application\\obj\\",
+      "outputPath": "E:\\Workplace\\BuberDinner\\BuberDinner7\\BuberDinner.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GENERAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +52,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\Workplace\\BuberDinner\\BuberDinner7\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
+              "projectPath": "E:\\Workplace\\BuberDinner\\BuberDinner7\\BuberDinner.Domain\\BuberDinner.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

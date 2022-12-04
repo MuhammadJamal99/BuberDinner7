@@ -8,6 +8,9 @@
     ".NETCoreApp,Version=v7.0": {
       "BuberDinner.API/1.0.0": {
         "dependencies": {
+          "BuberDinner.Application": "1.0.0",
+          "BuberDinner.Contracts": "1.0.0",
+          "BuberDinner.Infrastructure": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "7.0.0",
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.17.0",
           "Swashbuckle.AspNetCore": "6.4.0"
@@ -74,6 +77,32 @@
             "fileVersion": "6.4.0.0"
           }
         }
+      },
+      "BuberDinner.Application/1.0.0": {
+        "dependencies": {
+          "BuberDinner.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BuberDinner.Application.dll": {}
+        }
+      },
+      "BuberDinner.Contracts/1.0.0": {
+        "runtime": {
+          "BuberDinner.Contracts.dll": {}
+        }
+      },
+      "BuberDinner.Domain/1.0.0": {
+        "runtime": {
+          "BuberDinner.Domain.dll": {}
+        }
+      },
+      "BuberDinner.Infrastructure/1.0.0": {
+        "dependencies": {
+          "BuberDinner.Application": "1.0.0"
+        },
+        "runtime": {
+          "BuberDinner.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -138,6 +167,26 @@
       "sha512": "sha512-1Hh3atb3pi8c+v7n4/3N80Jj8RvLOXgWxzix6w3OZhB7zBGRwsy7FWr4e3hwgPweSBpwfElqj4V4nkjYabH9nQ==",
       "path": "swashbuckle.aspnetcore.swaggerui/6.4.0",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+    },
+    "BuberDinner.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BuberDinner.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BuberDinner.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BuberDinner.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

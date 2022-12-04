@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Workplace\\BuberDinner\\BuberDinner7\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {}
+    "E:\\Workplace\\BuberDinner\\BuberDinner7\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {}
   },
   "projects": {
-    "E:\\Workplace\\BuberDinner\\BuberDinner7\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
+    "E:\\Workplace\\BuberDinner\\BuberDinner7\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Workplace\\BuberDinner\\BuberDinner7\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+        "projectUniqueName": "E:\\Workplace\\BuberDinner\\BuberDinner7\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
         "projectName": "BuberDinner.Domain",
-        "projectPath": "E:\\Workplace\\BuberDinner\\BuberDinner7\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+        "projectPath": "E:\\Workplace\\BuberDinner\\BuberDinner7\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
         "packagesPath": "C:\\Users\\GENERAL\\.nuget\\packages\\",
-        "outputPath": "E:\\Workplace\\BuberDinner\\BuberDinner7\\BuberDinner\\BuberDinner.Domain\\obj\\",
+        "outputPath": "E:\\Workplace\\BuberDinner\\BuberDinner7\\BuberDinner.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GENERAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
